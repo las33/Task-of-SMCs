@@ -1,0 +1,5 @@
+model,mean,std
+bagging_oracle,0.997080291970803,0.0014371488359017962
+adaboost_oracle,1.0,0.0
+randomsubspace_oracle,1.0,0.0
+randomlinearoracle_oracle,0.9951338199513382,0.0010574537559128428
